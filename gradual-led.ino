@@ -1,3 +1,4 @@
+/**/
 const int buttonPin = 2;  // Pin del pulsante
 const int led = 9;     // Pin dell'LED
 
